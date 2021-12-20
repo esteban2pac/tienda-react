@@ -4,7 +4,7 @@ from functools import lru_cache
  
 class Settings(BaseSettings):
   API_V1_STR: str = "/api/v1"
-  PROJECT_NAME: str = "tienda-react"
+  PROJECT_NAME: str = "Tienda-React"
   POSTGRES_SERVER: str = "localhost"
   POSTGRES_USER: str = "tendero"
   POSTGRES_PASSWORD: str = "123123"
